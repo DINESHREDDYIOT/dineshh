@@ -1,0 +1,5 @@
+When you complete the steps in this post, you’ll have:
+
+Certificates for your ESP8266 that will be registered with AWS IoT and stored on your local computer
+A firmware image for the ESP8266 that can connect to AWS IoT directly and can be configured with your AWS IoT endpoint, Wi-Fi SSID, and Wi-Fi password without reflashing it
+A build environment that you can use to develop new firmware
